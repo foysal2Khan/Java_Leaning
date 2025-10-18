@@ -9,4 +9,3 @@ public class task8 {
        sc.close();  
     }
 }
-
