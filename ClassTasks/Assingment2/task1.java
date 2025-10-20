@@ -1,3 +1,6 @@
+/*Write the code of a program that reads two numbers from the user,prints their sum,product 
+ * and difference.
+ */
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task1 {
