@@ -1,6 +1,6 @@
 /*Write the java code of a program that reads the radius of a circle and prints its
 circumference and area 
- */
+*/
 
 package ClassTasks.Assingment2;
 import java.util.Scanner;
