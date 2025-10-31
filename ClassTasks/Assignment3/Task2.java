@@ -7,8 +7,14 @@ import java.util.Scanner;
 public class Task2 {
     public static void main(){
         Scanner sc=new Scanner(System.in);
-        
-        sc.close();
-    
+        System.out.print("Enter the no:"); 
+        int num=sc.nextInt();
+       
+        while(num>0){  
+             int last=num%10;
+             num=num/10;
+             System.out.print(last);
+            }
+    sc.close();
     }
 }
