@@ -1,5 +1,5 @@
 /*Write a Java program that asks the user for one number 
-and tells if it is a prime number or not. using count */
+and tells if it is a prime number or not. using Flag */
 
 package ClassTasks.Assignment3;
 import java.util.Scanner;
