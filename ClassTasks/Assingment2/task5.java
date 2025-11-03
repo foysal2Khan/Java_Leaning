@@ -1,3 +1,9 @@
+/* 
+Write the Java code of a program that reads a number, 
+and prints "The number is even" or "The number is odd", 
+depending on whether the number is even or odd.
+*/
+
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task5 {

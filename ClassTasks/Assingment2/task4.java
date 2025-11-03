@@ -1,3 +1,7 @@
+/* Write the Java code of a program that reads two numbers,
+subtracts the smaller number from the larger one, and prints the result.
+*/
+
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task4 {

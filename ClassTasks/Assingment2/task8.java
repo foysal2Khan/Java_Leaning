@@ -1,3 +1,11 @@
+/*
+Suppose, your friend is building an automated car called “Besla”. 
+He needs to fix the programming of the car so that it runs at a proper speed. 
+Now, write a Java program that takes 2 inputs (distance in meters and time in seconds).
+The program should then print the velocity in kilometers per hour of that car.
+Also, it should print whether the car is working properly based on the following chart.
+*/
+
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task8 {

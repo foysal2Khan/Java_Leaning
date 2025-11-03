@@ -1,3 +1,9 @@
+/*
+Write the Java code of a program that finds the number of hours,
+minutes, and seconds in a given number of seconds. 
+The number of seconds is taken as input from the user.
+*/
+
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task7 {

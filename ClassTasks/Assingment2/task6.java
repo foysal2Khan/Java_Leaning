@@ -1,3 +1,10 @@
+/*write a java program that reads an integer, and prints 
+the integer if it is a multiple of either 2 or 5 but not both .
+if the number is a multiple of 2 and 5  ,then print
+"multiple of 2 and 5 both". For all other number,
+the program prints,"not multiples of 2 and 5".
+ */
+
 package ClassTasks.Assingment2;
 import java.util.Scanner;
 public class task6 {
