@@ -50,6 +50,7 @@ public class practice7 {
           System.out.println(x);  
           
           //while loop
+          //y=12-15+18-21+24-27+30
 
           int z=12;
           int sum=0;
