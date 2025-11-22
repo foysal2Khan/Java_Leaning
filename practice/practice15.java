@@ -1,3 +1,8 @@
+/*
+Write a java program that takes a number as input and prints whether 
+it is a prime number / perfect number.
+*/
+
 package practice;
 
 import java.util.Scanner;
