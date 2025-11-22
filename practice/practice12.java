@@ -16,14 +16,15 @@ public class practice12 {
 
         for(int i=0; i<=str1.length()-1; i++){
             char c=str1.charAt(i);
-            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
+            if(c>= 'a' && c <= 'z'){
+                if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
                 vowel++;
             }
             else{
                 cons++;
             }
+          }
         }
-        
         System.out.println(vowel);
         System.out.println(cons);
 

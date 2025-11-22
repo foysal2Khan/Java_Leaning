@@ -13,7 +13,6 @@ public class practice13 {
         String str1=sc.nextLine();
         
         
-
         System.out.print("Upper Case: ");
         for(int i=0; i<=str1.length()-1; i++){
             char c=str1.charAt(i);
